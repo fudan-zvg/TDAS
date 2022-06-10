@@ -51,7 +51,7 @@ Inspiration
 
 ![key_idea](image/tdas_demo.png)
 
-Our TDAS encourages the convergence of the diffusion process by regulating the initial sample point faster and added noises at every iteration in both space and frequency domain. After regulation, both the initial sample point and added noises are more similar to the target distribution, reducing the difficulty of convergence to the target distribution especially in the large step size cases. 
+Our TDAS encourages the faster convergence of the diffusion process by regulating the initial sample point and added noises at every iteration in both space and frequency domain. After regulation, both the initial sample point and added noises are more similar to the target distribution, reducing the difficulty of convergence to the target distribution especially in the large step size cases. 
 
 ---
 
